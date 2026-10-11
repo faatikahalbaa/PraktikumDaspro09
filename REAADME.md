@@ -1,8 +1,8 @@
 ini adalah repository pertama saya 
-nama    : Faatikah Al Baro'ah 
+nama    : Faatikah Al Baro'ah
 NIM     : 264107060158
 Kelas   : 1E
-Hasil Uji Studi Kasus 2 oleh <Nama>
+Hasil Uji Studi Kasus 2 oleh <Garneta Ghania Fazila>
 
 | No | Jenis   | Dokumen | Juara/Dana | Output                                      | Sesuai? |
 |----|---------|---------|------------|---------------------------------------------|---------|
